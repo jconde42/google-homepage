@@ -1,0 +1,10 @@
+html {
+	-webkit-appearance: none;
+	border: 1px solid black;
+	background-color: white;
+}
+
+#logo {
+	width: 538px;
+	height: 190px;
+}
