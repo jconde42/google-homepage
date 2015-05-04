@@ -5,7 +5,15 @@
 	<title>Google-Homepage</title>
 </head>
 <body>
-	<div id="header"></div>
+	<div id="header">
+		<div id="GooglePlus" ></div>
+		<div id="Gmail"></div>
+		<div id="Images"></div>
+		<div id="Apps"></div>
+		<div id="Notifications"></div>
+		<div id="GoogleShare"></div>
+		<div id="ProfilePicture"></div>
+	</div>
 	<div id="main">
 	<div id="logoBox"><img id="picture" src="https://www.google.com/images/srpr/logo11w.png"/></div>
 	<div id="searchFormBox">
