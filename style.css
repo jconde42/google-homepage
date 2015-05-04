@@ -1,10 +1,42 @@
-html {
-	-webkit-appearance: none;
-	border: 1px solid black;
-	background-color: white;
+body {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	left: 0;
 }
 
-#logo {
-	width: 538px;
-	height: 190px;
+#main {
+	position: absolute;
+	top: 115px;
+	width: 100%;
+	height: 280px;
+	left: 0;
+}
+
+#picture {
+	width: 487px;
+}
+
+#logoBox {
+	width: 487px;
+	position: absolute;
+	margin: auto;
+	display: block;
+	left: 37%;
+}
+
+#searchFormBox {
+	position: absolute;
+	width: 487px;
+	height: 28px;
+	left: 37%;
+	bottom: 0;
+
+}
+
+#textForm {
+	position: absolute;
+	width: 487px;
+	height: 28px;
+
 }
