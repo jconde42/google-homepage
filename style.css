@@ -62,7 +62,7 @@ img {
 	width: 470px;
 	height: 18px;
 	position: absolute;
-	top: 350px;
+	top: 0;
 }
 
 #searchBar {
@@ -71,13 +71,29 @@ img {
 	margin-right: auto;
 	margin-left: auto;
 	position: relative;
+	top: 350px;
 }
 
 #mic {
 	width: 20px;
 	height: 20px;
 	position: relative;
-	top: 351px;
+	top: 1px;
 	display: block;
 	float: right;
+}
+
+#centerButtons {
+	position: relative;
+	width: 215px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#buttons {
+	position: relative;
+	top: 390px;
+	display: block;
+	padding: 2px;
+
 }
