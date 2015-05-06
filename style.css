@@ -57,3 +57,27 @@ img {
 	position: absolute;
 	top: 10px;
 }
+
+#search {
+	width: 470px;
+	height: 18px;
+	position: absolute;
+	top: 350px;
+}
+
+#searchBar {
+	width: 470px;
+	height: 18px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+
+#mic {
+	width: 20px;
+	height: 20px;
+	position: relative;
+	top: 351px;
+	display: block;
+	float: right;
+}
