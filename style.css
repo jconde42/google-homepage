@@ -3,65 +3,28 @@ body {
 	height: 100%;
 	position: fixed;
 	left: 0;
-}
-
-#main {
-	position: absolute;
-	top: 115px;
-	width: 100%;
-	height: 280px;
-	left: 0;
-
-}
-
-#picture {
-	width: 487px;
-}
-
-#logoBox {
-	width: 487px;
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
-}
-
-#searchFormBox {
-	width: 475px;
-	height: 25px;
-	bottom: 0;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 50px;
-
-}
-
-#textForm {
-	width: 475px;
-	height: 25px;
-
-}
-
-#header {
-	position: relative;
-	width: 100%;
-	height: 55px;
-	left: 0;
 	top: 0;
-	margin: 0;
-	padding: 0;
+	margin: auto;
+	border: 1px solid yellow;
 
 }
 
-#GooglePlus, #Gmail, #Images, #Apps, #Notifications, #GoogleShare, #ProfilePicture {
-	font-family: arial,sans-serif;
-	font-size: 12px;
-
-}
-
-#alignHeader {
-	width: 950px;
-	height: 55px;
+#logoOutline {
+	height: 100px;
+	width: 100%;
 	position: absolute;
-	right: 950px;
+	top: 216px;
+}
 
+#logoContainer {
+	height: 100px;
+	width: 275px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#logo {
+	height: 100px;
+	width: 275px;
 }
